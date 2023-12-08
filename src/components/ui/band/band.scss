@@ -1,0 +1,11 @@
+.band-container{
+    max-width: 100vw;
+    display: inline-flex;
+    background-color: var(--primaryColor);
+    margin: 100px 0px;
+    transform: rotate(-3deg);
+
+    p{
+        color: #fff;
+    }
+}
